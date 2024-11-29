@@ -1,0 +1,30 @@
+.AX_image{
+    /* width: 100%; */
+    width: 65%;
+ 
+}
+.Auxano_Homes{
+    width: 30%;        
+}
+.AX_div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+   justify-content: center;
+}
+.AX_paragraph{
+    width: 50%;
+    font-size: larger;
+    text: shadow 25%;
+    text-shadow: 50%;
+}
+.AX_button{
+    justify-items: center;
+}
+    
+
+
+
+    
+
+

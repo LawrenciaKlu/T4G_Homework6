@@ -1,0 +1,22 @@
+let name ="Lawrencia";
+console.log(name);
+let age =24;
+console.log(age);
+let numbers = (1,10);
+console.log(numbers);
+let subtruction = (10 - 5);
+console.log(subtruction);
+let division = (10 / 2);
+console.log(division);
+let multiplication = (2*10);
+console.log(multiplication);
+let remainder = (15 % 4);
+console.log(remainder);
+let power = true;
+console.log(power);
+let power2 = false;
+console.log(power2);
+let Myvariable = 40;
+console.log(Myvariable);
+let Myvariable2 = "52"
+console.log(Myvariable2);
