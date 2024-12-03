@@ -2,7 +2,7 @@ let name ="Lawrencia";
 console.log(name);
 let age =24;
 console.log(age);
-let numbers = (1,10);
+let numbers = (1+10);
 console.log(numbers);
 let subtruction = (10 - 5);
 console.log(subtruction);
@@ -19,4 +19,4 @@ console.log(power2);
 let Myvariable = 40;
 console.log(Myvariable);
 let Myvariable2 = "52"
-console.log(Myvariable2);
+console.log("string data");
